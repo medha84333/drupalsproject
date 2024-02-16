@@ -1,0 +1,5 @@
+# Ignore files starting with "pr"
+pr*
+
+# Ignore files with the extension ".pub"
+*.pub

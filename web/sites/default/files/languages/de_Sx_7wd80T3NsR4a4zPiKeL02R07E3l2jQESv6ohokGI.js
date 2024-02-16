@@ -1,0 +1,1 @@
+window.drupalTranslations = {"strings":{"":{"Home":"Startseite","Cancel":"Abbrechen","Changed":"Ge\u00e4ndert","Edit":"Bearbeiten","Open":"Ge\u00f6ffnet","Collapse":"Zusammenklappen"}},"pluralFormula":{"1":0,"default":1}};
